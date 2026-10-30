@@ -1,0 +1,18 @@
+{
+  "title": "GuideHollow Windows",
+  "slug": "windows",
+  "short": "Windows",
+  "hero": "Fix Windows problems without the guesswork.",
+  "description": "Windows 11 help for connectivity, updates, files and everyday troubleshooting.",
+  "accent": "#2563eb",
+  "topics": [
+    "Wi-Fi and internet",
+    "Bluetooth and audio",
+    "Updates",
+    "Startup",
+    "Accounts",
+    "Files"
+  ],
+  "url": "https://windows.guidehollow.com/",
+  "launchReady": false
+}
