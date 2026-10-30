@@ -14,7 +14,8 @@
     "파일·폴더 관리"
   ],
   "url": "https://windows.guidehollow.com/",
-  "launchReady": false,
+  "launchReady": true,
   "section": "윈도우 문제 해결",
-  "pageTitle": "윈도우 오류 해결·설정 가이드 | GuideHollow"
+  "pageTitle": "윈도우 오류 해결·설정 가이드 | GuideHollow",
+  "adsReady": false
 }
