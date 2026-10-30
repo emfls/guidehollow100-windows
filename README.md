@@ -1,19 +1,11 @@
-# GuideHollow Windows
+# GuideHollow · 윈도우
 
-Independent GuideHollow 100 static blog. Other GuideHollow repositories are not used.
+한국어로 운영하는 GuideHollow의 윈도우 문제 해결 블로그입니다.
 
-## Run
+- 개발: `npm install`, `npm run dev`, `npm run build`
+- 원고: `src/content/guides/*.md`의 `language: ko`, `draft: false`, `reviewed: true` 및 공식 출처 필요
+- 현재 `src/site.json`의 `launchReady: false`: 색인·기사 공개·쿠팡 배너 송출 차단
+- 배포: GitHub Pages Actions, DNS 및 HTTPS 확인 후 공개 전환
+- 광고: 쿠팡 다이나믹 배너 2개 설정, 애드센스는 자동 광고만 준비(비활성)
 
-    npm install
-    npm run dev
-    npm run build
-
-## Deploy
-1. Configure Settings > Pages > Source: GitHub Actions.
-2. Add the custom domain windows.guidehollow.com in GitHub Pages settings and configure Gabia DNS CNAME to the GitHub Pages hostname.
-3. Verify Pages deployment, SSL, domain and content QA.
-4. Set launchReady to true in src/site.json only after approval.
-
-## Editorial gate
-Guides live under src/content/guides/*.md. Both reviewed: true and draft: false are required, and the site must have launchReady: true.
-Notion drafts are NOT imported automatically; no existing publisher is connected.
+기존 사이트의 콘텐츠와 자동 발행기를 사용하지 않습니다.

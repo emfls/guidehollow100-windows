@@ -1,18 +1,20 @@
 {
-  "title": "GuideHollow Windows",
+  "title": "GuideHollow",
   "slug": "windows",
-  "short": "Windows",
-  "hero": "Fix Windows problems without the guesswork.",
-  "description": "Windows 11 help for connectivity, updates, files and everyday troubleshooting.",
+  "short": "윈도우",
+  "hero": "윈도우 문제가 생겼을 때, 원인부터 차근차근 해결하세요.",
+  "description": "Windows 11 인터넷 연결, 블루투스, 업데이트, 시작 오류와 파일 관리 문제를 단계별로 설명합니다.",
   "accent": "#2563eb",
   "topics": [
-    "Wi-Fi and internet",
-    "Bluetooth and audio",
-    "Updates",
-    "Startup",
-    "Accounts",
-    "Files"
+    "인터넷·와이파이 연결",
+    "블루투스·소리 문제",
+    "업데이트·드라이버",
+    "부팅·속도 개선",
+    "계정·로그인",
+    "파일·폴더 관리"
   ],
   "url": "https://windows.guidehollow.com/",
-  "launchReady": false
+  "launchReady": false,
+  "section": "윈도우 문제 해결",
+  "pageTitle": "윈도우 오류 해결·설정 가이드 | GuideHollow"
 }
