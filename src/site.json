@@ -2,8 +2,8 @@
   "title": "GuideHollow",
   "slug": "windows",
   "short": "윈도우",
-  "hero": "윈도우 문제가 생겼을 때, 원인부터 차근차근 해결하세요.",
-  "description": "Windows 11 인터넷 연결, 블루투스, 업데이트, 시작 오류와 파일 관리 문제를 단계별로 설명합니다.",
+  "hero": "Windows 파일명 검사",
+  "description": "파일명을 줄마다 입력하면 예약 이름과 금지 문자를 검사합니다. 이름은 변경하지 않습니다.",
   "accent": "#2563eb",
   "topics": [
     "인터넷·와이파이 연결",
@@ -16,7 +16,8 @@
   "url": "https://windows.guidehollow.com/",
   "launchReady": true,
   "section": "윈도우 문제 해결",
-  "pageTitle": "윈도우 오류 해결·설정 가이드 | GuideHollow",
+  "pageTitle": "Windows 파일명 검사 | GuideHollow",
   "adsReady": false,
-  "coupangEnabled": true
+  "coupangEnabled": true,
+  "utilityEnabled": true
 }
